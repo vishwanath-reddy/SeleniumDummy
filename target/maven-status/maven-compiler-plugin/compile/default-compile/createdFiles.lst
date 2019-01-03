@@ -1,0 +1,10 @@
+selenium/configurations/TypedProperties.class
+utils/SimpleGetTest.class
+selenium/driver/WebDriverConfig.class
+selenium/Pages.class
+selenium/driver/DesiredCapabilitiesFactory.class
+selenium/driver/WebDriverBuilder.class
+utils/TestUtils.class
+selenium/driver/UserAgents.class
+selenium/SeleniumFunctions.class
+utils/SampleTest.class
